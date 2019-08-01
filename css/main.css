@@ -1,0 +1,50 @@
+* {
+    box-sizing: border-box;
+  }
+  
+.flex {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    font-size: 20px;
+    color: white;
+    background-color: #9DC184;
+}
+
+body div{
+    
+    
+     
+    
+    
+}
+
+#bottom {
+    border: solid green;
+    margin: 20px;
+
+}
+
+
+.table {
+   
+    display: flex;
+    width:300px;
+   
+    
+
+
+    
+}
+
+
+
+
+img {
+    width: 15px;
+}
