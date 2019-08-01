@@ -13,7 +13,7 @@ $('button').on('click', function(evt){
 
    $('tbody').append(template);
 
-   $('input').val("test");
+   $('input').val("");
 
 });
 
